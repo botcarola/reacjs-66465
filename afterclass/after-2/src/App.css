@@ -1,0 +1,15 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.container-cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
